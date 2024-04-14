@@ -1,5 +1,4 @@
-![Mourad Omar (1)](https://github.com/Mouradadel1919/Mouradadel1919/assets/99130168/c48ebe13-6fe1-4808-b1e9-9737d74d9d0c)
-
+<img align="right" alt="Coding" width="1000" height= "500" src= "https://www.analyticsinsight.net/wp-content/uploads/2020/03/AI_Animated.gif">
 <h1 align="center">Hi 👋, I'm Mourad Omar</h1>
 <h3 align="center">Machine Learning | Embedded ML | Computer Vision | Data Science</h3>
 
