@@ -1,7 +1,7 @@
 ![Banner](https://github.com/Mouradadel1919/Mouradadel1919/assets/99130168/5cf5a054-6ad4-45db-93f3-e2934aa617ee)
 
 
-<img align="right" alt="Coding" width="1000" height= "500" src= "https://www.analyticsinsight.net/wp-content/uploads/2020/03/AI_Animated.gif">
+
 <h1 align="center">Hi 👋, I'm Mourad Omar</h1>
 <h3 align="center">Machine Learning | Embedded ML | Computer Vision | Data Science</h3>
 
