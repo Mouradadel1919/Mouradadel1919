@@ -1,4 +1,4 @@
-![Mourad Omar](https://github.com/Mouradadel1919/Mouradadel1919/assets/99130168/5ad79e05-c7f7-4495-898c-160f5699ba77)
+![Mourad Omar (1)](https://github.com/Mouradadel1919/Mouradadel1919/assets/99130168/c48ebe13-6fe1-4808-b1e9-9737d74d9d0c)
 
 <h1 align="center">Hi 👋, I'm Mourad Omar</h1>
 <h3 align="center">Machine Learning | Embedded ML | Computer Vision | Data Science</h3>
