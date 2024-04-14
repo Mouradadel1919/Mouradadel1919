@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Mourad Omar</h1>
 <h3 align="center">Machine Learning | Embedded ML | Computer Vision | Data Science</h3>
-<img align="right" alt="Coding" width="1000" height= "500" src= "https://www.analyticsinsight.net/wp-content/uploads/2020/03/AI_Animated.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mouradadel1919&label=Profile%20views&color=0e75b6&style=flat" alt="mouradadel1919" /> </p>
 
