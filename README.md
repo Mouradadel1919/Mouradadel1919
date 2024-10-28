@@ -1,7 +1,6 @@
 ![Banner](https://github.com/Mouradadel1919/Mouradadel1919/assets/99130168/b4469629-db84-4bf1-ac7b-ff0281ae85a9)
 
 <h1 align="center">Welcome to Mourad Omar's Profile</h1>
-<h3 align="center">Data Scientist</h3>
 
 - 📫 How to reach me **Mouradadel1919@Gmail.com**
 
