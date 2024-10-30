@@ -1,4 +1,4 @@
-![Banner](https://github.com/Mouradadel1919/Mouradadel1919/assets/99130168/b4469629-db84-4bf1-ac7b-ff0281ae85a9)
+![Linkedin Banner - Made with PosterMyWall](https://github.com/user-attachments/assets/2d57393f-d3bb-4182-bd7d-9fa60f6d6f5e)
 
 <h1 align="center">Welcome to Mourad Omar's Profile</h1>
 
