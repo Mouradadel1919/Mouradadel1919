@@ -1,4 +1,5 @@
-![Linkedin Banner - Made with PosterMyWall](https://github.com/user-attachments/assets/2d57393f-d3bb-4182-bd7d-9fa60f6d6f5e)
+![Linkedin Banner - Made with PosterMyWall (1)](https://github.com/user-attachments/assets/1f7098a5-5975-43ca-a06b-be2fd5261439)
+
 
 <h1 align="center">Welcome to Mourad Omar's Profile</h1>
 
