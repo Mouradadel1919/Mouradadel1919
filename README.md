@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **Mouradadel1919@Gmail.com**
 
-- 📄 CV [https://drive.google.com/file/d/1w7J7Mv4mYzuaHWdYqNiB8uvu3CARUzjh/view?usp=sharing](https://drive.google.com/file/d/1w7J7Mv4mYzuaHWdYqNiB8uvu3CARUzjh/view?usp=sharing)
+- 📄 CV https://drive.google.com/file/d/1nllyR-crt9C_G-EbpB-8mL0v4Ph4Rqsl/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
