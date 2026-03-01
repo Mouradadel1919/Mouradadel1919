@@ -5,7 +5,7 @@
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCf5jAkZ8pfDV_D6DWeqA4Pw?logo=youtube&logoColor=red&style=for-the-badge)](https://www.youtube.com/@MouradOmar1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/mouradadel1919/)
-[![Email](https://img.shields.io/badge/Email-mouradomar1907%40gmail.com-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:mouradomar1907@gmail.com)
+[![Email](https://img.shields.io/badge/Email-mouradomar1907%40gmail.com-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:mouradadel1919@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/Mouradadel1919?logo=github&style=for-the-badge)](https://github.com/Mouradadel1919)
 
 ---
