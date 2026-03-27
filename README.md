@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/mouradadel1919/)
 [![Email](https://img.shields.io/badge/Email-mouradomar2003%40gmail.com-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:mouradomar2003@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/Mouradadel1919?logo=github&style=for-the-badge)](https://github.com/Mouradadel1919)
+[![GitHub followers](https://img.shields.io/github/followers/Mouradomar2003?logo=github&style=for-the-badge)](https://github.com/Mouradomar2003)
 
 ---
 
